@@ -1,5 +1,8 @@
 #  Practical Project Option: Knights of Legend
 
+This was the final project for my Introduction to Java course(CS164) in spring of 2021.
+It is a text based game that demonstrates a lot of object oriented programming concepts and lots of string manipulation.
+
 > This project is *large*. However, if you take it in steps, you find it  is very doable,
 > as long as  you start right away, and take breaks! Students have informed us
 > that while this project is daunting, sticking with it and completing it was
